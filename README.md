@@ -1,3 +1,5 @@
+<p align="center"><img src="https://raw.githubusercontent.com/ratulbmg/atomberg-api/main/docs/logo.png" width="128" alt="atomberg-api logo"></p>
+
 # atomberg-api
 
 Async Python client for the [Atomberg public cloud API](https://developer.atomberg-iot.com/).
